@@ -1,0 +1,135 @@
+:root {
+    --dark:#40514E;
+    --light:#E4F9F5;
+    --darkgreen:#11999E;
+    --lightgreen:#30E3CA;
+
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-weight: 600;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+#home-page{
+    background-color: var(--dark);
+    min-height: 100vh;
+    width: 100%;
+    /*position:relative;*/
+    /*padding-top: 50px;*/
+}
+
+#projects-page{
+    background-color: var(--light);
+    min-height: 100vh;
+    width: 100%;
+    /*position:relative;*/
+
+}
+
+#contact-page{
+    background-color: var(--light);
+    min-height: 100vh;
+    width: 100%;
+    /*position:relative;*/
+    padding-top: 8rem;
+}
+
+.big-heading h1 {
+    position: absolute;
+    color: var(--light);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: xxx-large;
+}
+
+.card-custom{
+    text-align: center;
+    color: var(--light);
+    margin: 8rem auto 4.5rem auto;
+}
+
+.lightcol{
+    color: var(--light);
+    text-decoration: none;
+}
+
+
+.github{
+    margin-top: 8rem;
+    color: var(--dark);
+    text-align: center;
+    /*font-weight: inherit;*/
+}
+
+.github a{
+    text-decoration: none;
+    color: var(--dark);
+}
+
+.container{
+    margin: auto;
+    font-family: 'Poppins', sans-serif;
+}
+
+.resume-btn{
+    background-color: var(--lightgreen);
+    border-radius: 20px;
+    border: none;
+    padding: .5rem;
+    font-weight: 600;
+    font-size: 36px ;
+    text-align: center;
+}
+
+.contact-page h1{
+    font-size: 3em;
+}
+
+.contact-page p{
+    font-size: 2em;
+    font-weight: normal;
+    margin-top: 2em;
+}
+
+.form-back{
+    background-color: var(--dark);
+    color: var(--light);
+    border-radius: 50px;
+    padding: 4rem 2rem;
+    margin: 1em 1em 0 1em;
+    font-family: inherit;
+    font-weight: bold ;
+} 
+
+.transparent-back{
+    background-color: transparent;
+}
+
+.but{
+    text-align: center;
+}
+
+.button{
+    text-align: center;
+    border-radius: 10px;
+    padding: 1rem 2rem;
+    border: none;
+    margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600 ;
+    font-size: 24px;
+}
+
+.thanks{
+    text-align: center;
+    margin: auto;
+}
