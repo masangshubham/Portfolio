@@ -1,5 +1,5 @@
 # Portfolio
-link : https://masangshubham.github.io/Portfolio/
+link : <a href="https://masangshubham.github.io/Portfolio/" target="blank_">https://masangshubham.github.io/Portfolio/</a>
 
 Technologies used:
 <ul>
