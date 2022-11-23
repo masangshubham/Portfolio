@@ -1,5 +1,5 @@
 # Portfolio
-link : <a href="https://masangshubham.github.io/Portfolio/" target="blank_">https://masangshubham.github.io/Portfolio/</a>
+link : <a href="https://flourishing-moonbeam-1c7d42.netlify.app/" target="blank_">https://flourishing-moonbeam-1c7d42.netlify.app/</a>
 
 Technologies used:
 <ul>
