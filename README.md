@@ -1,5 +1,5 @@
 # Portfolio
-link : <a href="https://flourishing-moonbeam-1c7d42.netlify.app/" target="blank_">https://flourishing-moonbeam-1c7d42.netlify.app/</a>
+link : Click <a href="https://flourishing-moonbeam-1c7d42.netlify.app/" target="blank_">Here</a> hosted on Netlify
 
 Technologies used:
 <ul>
